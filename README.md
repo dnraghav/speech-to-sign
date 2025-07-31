@@ -7,7 +7,7 @@ This aims to bridge the communication gap between hearing and speech-impaired in
 
 ![Thumbnail](https://img.youtube.com/vi/2pwZ4AdeYuc/0.jpg)
 
-### 🎥 [Watch the Demo Video](https://youtu.be/2pwZ4AdeYuc)
+
 
 ---
 
